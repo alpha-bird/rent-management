@@ -5,8 +5,6 @@
 
 # How to run the project?
 
-Tips: please use node v12.x (prefer to use `v12.22.12`)
-
 ## rent-management-api
 
 1. Install MongoDB server on your local
@@ -26,7 +24,7 @@ https://www.mongodb.com/try/download/community
 
 1. Install npm packages
 - Go to the frontend directory : `cd /react-rent-management`
-- `npm install` or `npm install --legacy-peer-deps`
+- `npm install`
 
 2. Run the project
 - `npm run start-dev`
